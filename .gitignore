@@ -1,2 +1,4 @@
 custom-vision/customvision_model/cvexport.manifest
-yolov3/yolo/yolov3.weights
+yolo/yolov3/yolov3.weights
+yolo/yolov8n.pt
+yolo/yolov3/yolov8n.pt
